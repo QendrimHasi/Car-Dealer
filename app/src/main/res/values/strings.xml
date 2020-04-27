@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Giuliangeli</string>
+    <string name="link">http://api-task.draft2017.com/api/auth/</string>
+    <string name="link2">http://api-task.draft2017.com/api/</string>
+    <string name="imgpath">http://api-task.draft2017.com</string>
+    <string name="load">Loading&#8230;</string>
+    //client info
+    <string name="detail">Dettaglio contratto</string>
+    <string name="code">Codice Clienet</string>
+    <string name="delivarydate">Data Consegna</string>
+    <string name="returndate">Data Rientro</string>
+    <string name="client">Cliene</string>
+    <string name="km">KM</string>
+    <string name="targa">Targa</string>
+    <string name="uploadimage">Scatta Foto</string>
+    <string name="delete">Elimina</string>
+
+    //home
+    <string name="date">Select a date </string>
+    <string name="clients">Elenco Contratti</string>
+    <string name="from">Dal</string>
+    <string name="to">Al</string>
+    <string name="cod">COD</string>
+    <string name="delivery">CONSEGNA</string>
+    <string name="returnhome">RIENTRO</string>
+    <string name="clienthome">CLIENTE</string>
+
+    //popup
+    <string name="no">No</string>
+    <string name="yes">Si</string>
+    <string name="warnig">SEI SICURO DI VOLER ELIMINARE LA FOTO</string>
+
+    //Login  Register
+    <string name="login">Accedi</string>
+    <string name="register">Registrati</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirmpass">Confirm Password</string>
+
+    //imagezoom
+    <string name="back">Indietro</string>
+</resources>
